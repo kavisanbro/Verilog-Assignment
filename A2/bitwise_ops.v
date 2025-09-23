@@ -32,6 +32,6 @@ module bitwise_ops;
         $display("x & y = %b", x & y);
         $display("x | y = %b", x | y);
         $display("x ^ y = %b", x ^ y);
-        $display("x ^~ y= %b", x ^~ y); // XNOR
+        $display("x ^~ y= %b", x ^~ y); 
     end
 endmodule
